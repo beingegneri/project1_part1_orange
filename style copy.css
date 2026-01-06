@@ -1,0 +1,51 @@
+p {
+    color:#6E6B36;
+ }
+
+ h1 {
+    color:#6E6B36;
+ }
+
+ h2 {
+    color:#6E6B36;
+ }
+
+.goodright{
+    color:#FFA500;
+    font-size: 100px;
+    text-align: right;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.goodbig{
+    color:#FFA500;
+    font-size: 200px;
+    text-align: right;
+}
+
+.goodsmall{
+    color:#FFA500;
+    font-size: 50px;
+}
+
+.center{
+    text-align: center;
+}
+
+.image-text{
+    background-image: url(insidious_orange_bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+.background_color{
+    background-color: #FFA500;
+}
