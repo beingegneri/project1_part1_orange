@@ -20,10 +20,13 @@ p {
     color:#6E6B36;
  }
 
+ .color{
+    color:#6E6B36
+ }
+
 .goodright{
     color:#FFA500;
-    font-size: 100px;
-    text-align: right;
+    font-size: 80px;
 }
 
 .italic{
@@ -32,7 +35,11 @@ p {
 
 .goodbig{
     color:#FFA500;
-    font-size: 200px;
+    font-size: 180px;
+}
+
+.right{
+    float: right;
     text-align: right;
 }
 
@@ -46,7 +53,7 @@ p {
 }
 
 .image-text{
-    background-image: url(insidious_orange_bg.png);
+    background-image: url(img/insidious_orange_bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,6 +61,7 @@ p {
     background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent;
+    z-index: 99;
 }
 
 .background_color{
