@@ -2,6 +2,11 @@ body{
     background-image: url(img/background3.png);
     width:1000px;
     height:5000px;
+    z-index: -1;
+}
+
+.top{
+    z-index: 2;
 }
 
 p {
