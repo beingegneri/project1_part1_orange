@@ -20,12 +20,15 @@ p {
     color:#6E6B36;
  }
 
+ h5{
+    size: 20pt;
+ }
  .color{
     color:#6E6B36
  }
 
 .goodright{
-    color:#FFA500;
+    color: #6E6B36;
     font-size: 80px;
 }
 
@@ -66,6 +69,10 @@ p {
 
 .background_color{
     background-color: #FFA500;
+}
+
+.background_color2{
+    background-color: #6E6B36;
 }
 
 li{
