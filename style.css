@@ -67,3 +67,32 @@ p {
 .background_color{
     background-color: #FFA500;
 }
+
+li{
+    font-size: 280%;
+    color: #6E6B36;
+    transition: color 0.3s ease;
+}
+
+li:hover{
+    color: #FFA500;
+}
+
+.grayborder{
+    border-style: dotted;
+    border-width: 1px;
+    border-color: rgb(84, 84, 84);
+}
+
+.color-change{
+    filter: saturate(100%);
+    transition: filter 0.3s ease;
+}
+
+.color-change:hover{
+    filter: saturate(300%);
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
