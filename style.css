@@ -105,11 +105,11 @@ li:hover{
 }
 
 html {
-  cursor: url(img/orangecursor.png);
+  cursor: url(img/orangecursor.png), auto;
 }
 
 a {
-  cursor: url(img/insidious_orange.png);
+  cursor: url(img/insidious_orange.png), auto;
 }
 
 a{
