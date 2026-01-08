@@ -103,3 +103,15 @@ li:hover{
 .rotate{
     transform: rotate(90deg);
 }
+
+html {
+  cursor: url(img/orangecursor.png);
+}
+
+a {
+  cursor: url(img/insidious_orange.png);
+}
+
+a{
+    text-decoration-line: none;
+}
